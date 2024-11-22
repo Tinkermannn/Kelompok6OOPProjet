@@ -12,3 +12,4 @@ C:\Users\Wilman Saragih\Documents\OOP 2\OOP_PROJECT\obj\Debug\net8.0\refint\OOP_
 C:\Users\Wilman Saragih\Documents\OOP 2\OOP_PROJECT\obj\Debug\net8.0\OOP_PROJECT.pdb
 C:\Users\Wilman Saragih\Documents\OOP 2\OOP_PROJECT\obj\Debug\net8.0\OOP_PROJECT.genruntimeconfig.cache
 C:\Users\Wilman Saragih\Documents\OOP 2\OOP_PROJECT\obj\Debug\net8.0\ref\OOP_PROJECT.dll
+C:\Users\Wilman Saragih\Documents\OOP 2\OOP_PROJECT\obj\Debug\net8.0\OOP_PROJECT.sourcelink.json
