@@ -1,0 +1,14 @@
+C:\Users\Wilman Saragih\Documents\OOP 2\OOP_PROJECT\bin\Debug\net8.0\OOP_PROJECT.exe
+C:\Users\Wilman Saragih\Documents\OOP 2\OOP_PROJECT\bin\Debug\net8.0\OOP_PROJECT.deps.json
+C:\Users\Wilman Saragih\Documents\OOP 2\OOP_PROJECT\bin\Debug\net8.0\OOP_PROJECT.runtimeconfig.json
+C:\Users\Wilman Saragih\Documents\OOP 2\OOP_PROJECT\bin\Debug\net8.0\OOP_PROJECT.dll
+C:\Users\Wilman Saragih\Documents\OOP 2\OOP_PROJECT\bin\Debug\net8.0\OOP_PROJECT.pdb
+C:\Users\Wilman Saragih\Documents\OOP 2\OOP_PROJECT\obj\Debug\net8.0\OOP_PROJECT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wilman Saragih\Documents\OOP 2\OOP_PROJECT\obj\Debug\net8.0\OOP_PROJECT.AssemblyInfoInputs.cache
+C:\Users\Wilman Saragih\Documents\OOP 2\OOP_PROJECT\obj\Debug\net8.0\OOP_PROJECT.AssemblyInfo.cs
+C:\Users\Wilman Saragih\Documents\OOP 2\OOP_PROJECT\obj\Debug\net8.0\OOP_PROJECT.csproj.CoreCompileInputs.cache
+C:\Users\Wilman Saragih\Documents\OOP 2\OOP_PROJECT\obj\Debug\net8.0\OOP_PROJECT.dll
+C:\Users\Wilman Saragih\Documents\OOP 2\OOP_PROJECT\obj\Debug\net8.0\refint\OOP_PROJECT.dll
+C:\Users\Wilman Saragih\Documents\OOP 2\OOP_PROJECT\obj\Debug\net8.0\OOP_PROJECT.pdb
+C:\Users\Wilman Saragih\Documents\OOP 2\OOP_PROJECT\obj\Debug\net8.0\OOP_PROJECT.genruntimeconfig.cache
+C:\Users\Wilman Saragih\Documents\OOP 2\OOP_PROJECT\obj\Debug\net8.0\ref\OOP_PROJECT.dll
